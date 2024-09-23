@@ -1,3 +1,15 @@
+# Solver feito por: 
+Diogo Couto 104288 
+*Máquina de estados*
+
+# Codigo: 
+student.py
+
+# Explicação do código/Apresentação : 
+Ia_Apresentacao_final.pdf
+
+-----------------------------------------------------------------------
+
 # ia-digdug
 DigDug clone for AI teaching
 
