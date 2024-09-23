@@ -1,1 +1,0 @@
-# ia-si1-tpi2-2024-template
