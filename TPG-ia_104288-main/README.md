@@ -1,5 +1,6 @@
 # Solver feito por: 
 Diogo Couto 104288 
+
 *Máquina de estados*
 
 # Codigo: 
